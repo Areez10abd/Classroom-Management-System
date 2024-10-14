@@ -1,0 +1,93 @@
+Class Name: BS-DS Programming
+Subject:  
+Teacher: Ahmad Hassan
+Description: Data Structure
+Enrolled Students:
+Attached Files:
+
+Class Name: Programming DS
+Subject:  
+Teacher: Arif ahmad
+Description: Batch 21 semester 3
+Enrolled Students:
+Attached Files:
+
+Class Name: BS-CS22
+Subject:  
+Teacher: JAwad Hassan
+Description: OOP
+Enrolled Students:
+Attached Files:
+
+Class Name:  
+Subject:  
+Teacher: 
+Description:  
+Enrolled Students:
+Attached Files:
+
+Class Name: CS-D
+Subject: OOP
+Teacher: Jawad hassan
+Description: Semester 3 Batch 22
+Enrolled Students:
+Attached Files:
+
+Class Name:  
+Subject:  
+Teacher: 
+Description:  
+Enrolled Students:
+ - Areez
+Attached Files:
+
+Class Name:  
+Subject:  
+Teacher: 
+Description:  
+Enrolled Students:
+Attached Files:
+
+Class Name:  
+Subject:  
+Teacher: 
+Description:  
+Enrolled Students:
+ - Ahsan
+Attached Files:
+
+Class Name: Areez
+Subject: a
+Teacher: a
+Description: a
+Enrolled Students:
+Attached Files:
+
+Class Name: AP
+Subject: OP
+Teacher: Ap
+Description: AP
+Enrolled Students:
+Attached Files:
+
+Class Name: OP
+Subject: 
+Teacher: OP
+Description: OP
+Enrolled Students:
+Attached Files:
+
+Class Name: messiclass
+Subject: 2
+Teacher: goat
+Description: as
+Enrolled Students:
+Attached Files:
+
+Class Name: classmessi
+Subject: 
+Teacher: a
+Description: d
+Enrolled Students:
+Attached Files:
+
